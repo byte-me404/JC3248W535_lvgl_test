@@ -1,5 +1,5 @@
 /* Using LVGL with Arduino requires some extra steps:
-   Be sure to read the docs here: https://docs.lvgl.io/master/get-started/platforms/arduino.html
+   Be sure to read the docs here: https://docs.lvgl.io/master/details/integration/framework/arduino.html
    To use the built-in examples and demos of LVGL uncomment the includes below respectively.
    You also need to copy 'lvgl/examples' to 'lvgl/src/examples'. Similarly for the demos 'lvgl/demos' to 'lvgl/src/demos'.
 */
